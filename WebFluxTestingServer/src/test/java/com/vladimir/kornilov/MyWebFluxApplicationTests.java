@@ -1,4 +1,4 @@
-package test.java.com.vladimir.kornilov;
+package com.vladimir.kornilov;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
